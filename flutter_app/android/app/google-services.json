@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "137669687027",
+    "firebase_url": "https://flutterdemo-3a03e.firebaseio.com",
+    "project_id": "flutterdemo-3a03e",
+    "storage_bucket": "flutterdemo-3a03e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137669687027:android:c275808473a48380232986",
+        "android_client_info": {
+          "package_name": "com.example.flutterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137669687027-sjrms4pkiuf0jgbb379v9clr0699skuq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi6O_s7sdkm8LSJ-SSxm-lSOsVdhkHDls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137669687027-sjrms4pkiuf0jgbb379v9clr0699skuq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137669687027:android:8bc279d56c567d85232986",
+        "android_client_info": {
+          "package_name": "flutterapp.sliit.flutterappfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137669687027-sjrms4pkiuf0jgbb379v9clr0699skuq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi6O_s7sdkm8LSJ-SSxm-lSOsVdhkHDls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137669687027-sjrms4pkiuf0jgbb379v9clr0699skuq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137669687027:android:3ccfd2b91221f220232986",
+        "android_client_info": {
+          "package_name": "flutterapp.sliit.flutterappforminput"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137669687027-sjrms4pkiuf0jgbb379v9clr0699skuq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi6O_s7sdkm8LSJ-SSxm-lSOsVdhkHDls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137669687027-sjrms4pkiuf0jgbb379v9clr0699skuq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
